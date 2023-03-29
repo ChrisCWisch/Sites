@@ -1,0 +1,150 @@
+body {
+    background-color: #EEEEEE;
+    text-align: center;
+    font-family: 'Merriweather', serif; color: #222831; 
+    font-size: 1.5rem;
+    max-width: 100%;
+    box-sizing: border-box;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 0px;
+    margin-bottom: 0;
+    
+
+}
+
+
+h1 {
+    line-height: 2; 
+    font-size: 2.6rem;
+    font-family: 'Beth Ellen', serif; color: #393E46;
+}
+
+h2 {
+    font-family: 'Source Serif Pro', serif; color: #393E46;
+    font-size: 2.6rem;
+    font-weight: normal;
+    
+}
+
+h3 {
+    font-family: 'Source Serif Pro', serif; color: #393E46;
+    font-size: 2.6rem;
+}
+
+h4 {
+    font-family: 'Beth Ellen', serif; color: #393E46;
+}
+
+hr { 
+    border-style: dotted none none none;
+    border-width: 10px;
+    border-color: #393E46;
+    width: 150px;
+  
+
+}
+
+p {
+    line-height: 2;
+}
+
+
+
+/******************Class Tags**************************/
+
+.CloudSent {
+    position: relative; bottom: 60px;
+    word-spacing: 10px;
+
+}
+.Cloudtitle {
+    position: relative; top: 290px; left: -250px;
+    word-spacing: 10px;
+   
+    
+   
+}
+
+.Cloud {
+    position: relative; top: -40px; right: 300px;
+    
+
+}
+.mountain {
+    position: relative; top: -100px; 
+    width: 100%
+    
+     
+}
+
+.footer-link {
+    font-family: 'Merriweather', serif; color: #222831;
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 1px 3px #666666;
+    -moz-box-shadow: 0px 1px 3px #666666;
+    box-shadow: 0px 1px 3px #666666;
+    color: #eeeeee;
+    font-size: 20px;
+    background: #393E46;
+    padding: 10px 20px 10px 20px;
+    border: solid #eeeeee 2px;
+    text-decoration: none;
+    position: relative; bottom: -40px;
+
+    margin: 0 auto 0 auto;
+}
+.bottom-container {
+    background-color: #222831;
+    height: 150px; 
+    margin: 0 10px 0 0px;
+    border-radius: 50px;
+    display: block;
+    width: 100%;
+}
+      
+
+
+.skillp {
+    position: relative; top: 120px; width: 500px; 
+    margin: 0 auto 0 auto;
+}
+
+.None {
+    position: relative; bottom: -60px;
+   
+}
+
+.X-out{
+    position: relative; bottom: 230px; right: 240px;
+}
+
+.Computer {
+    position: relative; bottom: 20px; right: 250px;
+}
+
+.hobbie {
+    position: relative; right: -10px; bottom: 170px;
+}
+
+
+.Mhobbie{ 
+    position: relative; top: -100px; right: -10px;
+}
+
+
+  
+  
+  .me {
+    position: relative; bottom: -40px;
+    color: #EEEEEE;
+  }
+  
+.emailbtn {
+    
+    border: none;
+    background-color: #EEEEEE;
+    
+}
